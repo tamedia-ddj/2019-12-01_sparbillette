@@ -1,5 +1,0 @@
-pandas
-tqdm
-numpy
-osmnx==0.11
-networkx

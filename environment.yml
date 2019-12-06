@@ -1,0 +1,7 @@
+name: 2109-12-01_sparbillette
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - osmnx
+  - tqdm
