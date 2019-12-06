@@ -3,3 +3,5 @@ tqdm
 concurrent.futures
 numpy
 multiprocessing
+osmnx
+networkx

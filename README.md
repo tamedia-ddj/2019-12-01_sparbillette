@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tamedia-ddj/2019-12-01_sparbillette/master)
+
 # Analyse der Bahnpreise während der Rabattaktion vom Herbst 2019
 
 **Wie teuer ist Zugfahren in Zeiten der Sparbillettschwemme? Eine Analyse der aus dem Fahrplan ausgelesenen Preise für ausgewählte Strecken.**
